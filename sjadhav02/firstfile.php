@@ -5,4 +5,5 @@
  * Date: 20-04-2020
  * Time: 18:05
  */
-echo 'welcome to GIT ';
+echo 'Welcome to GIT ';
+?>
