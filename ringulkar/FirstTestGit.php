@@ -1,3 +1,5 @@
 <?php
 
-echo'creating new branch.';
+function test() {
+	echo 'test function';
+}
