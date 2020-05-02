@@ -1,5 +1,5 @@
 <?php
 
 function test() {
-	echo 'test function';
+	echo 'I am in Main branch.';
 }
