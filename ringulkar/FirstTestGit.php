@@ -8,4 +8,6 @@ function test() {
 		$intCounter++;
 		echo $intCounter;
 	}
+
+	echo 'while has ended';
 }
