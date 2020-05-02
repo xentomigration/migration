@@ -3,8 +3,8 @@
 function test() {
 	$intCounter = 0;
 
-	do{
+	while( $intCounter < 10 ) {
 		$intCounter++;
 		echo $intCounter;
-	} while( $intCounter < 10 );
+	}
 }
