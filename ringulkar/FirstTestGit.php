@@ -1,6 +1,10 @@
 <?php
 
 function test() {
-	echo 'I am in Rtest branch.';
-	echo 'this is Rtest branch.';
+	$intCounter = 0;
+
+	do{
+		$intCounter++;
+		echo $intCounter;
+	} while( $intCounter < 10 );
 }
