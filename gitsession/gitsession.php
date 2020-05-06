@@ -1,5 +1,5 @@
 <?php
 
-echo 'gitsession';
+echo 'gitsession - master';
 
 ?>
