@@ -1,1 +1,4 @@
-test doc
+<?php
+echo 'test doc';
+?>
+
