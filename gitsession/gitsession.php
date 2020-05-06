@@ -1,6 +1,6 @@
 <?php
 
-echo 'gitsession - master';
-echo 'gitsession - branch A';
+echo 'gitsession - master - test3';
+echo 'gitsession - branch A - test4';
 
 ?>
